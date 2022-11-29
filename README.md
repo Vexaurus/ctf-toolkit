@@ -10,6 +10,11 @@
 
 ## Additional tools:
 - [CyberChef](https://gchq.github.io/CyberChef/)
+  - Very good for all sorts of stuff
+
+### Web
+- [JWT](https://jwt.io/)
+  - Decode Json Web tokens 
 
 ### DFIR
 - [Autopsy](https://www.autopsy.com/download/)
@@ -31,11 +36,17 @@
   - Useful for any rsa questions.
 - [SAGEMaths](https://www.sagemath.org/)
   - Used for maths stuff/uses maths.
+- [Wolfram Alpha](https://www.wolframalpha.com/)
+  - Maths stuff but easier
+-  [Dcode](https://www.dcode.fr/en)
+  - All sorts of decoders 
 
 ### OSINT
 - [Sherlock](https://sherlock-project.github.io/)
   - Finds usernames of social media accounts.
-
+- [What Three Words](https://what3words.com/)
+  - Finds a place in the world based on three words.
+ 
 ### Stego
 - [exiftool]()
   - view exif data of files
@@ -45,6 +56,13 @@
   - Looks through files for hidden files within
 - [Sonic Visualizer](https://www.sonicvisualiser.org/)
   - For looking at audio files (especially in the spectogram)
+- [zsteg]()
+  - perl based tool to look at bmp and png steg
+- [stegseek](https://github.com/RickdeJager/stegseek)
+  - Like steghide but faster
+- [MorseCode](https://morsecode.world/international/decoder/audio-decoder-adaptive.html)
+  - Morse code from audio fast, from images/text use cyber chef  
+
 
 ### Password Cracking
 - [CUPP](https://github.com/Mebus/cupp)
@@ -54,17 +72,38 @@
 - [SecLists](https://github.com/danielmiessler/SecLists)
   - Password lists
 
+### PWN/Reveng
+- [Ghidra](https://github.com/NationalSecurityAgency/ghidra/releases)
+  - NSA uses this so must be good, static analysis
+- [EDB Debug](https://github.com/eteran/edb-debugger)
+  - Live debugging on linux
+- [WinDBG](https://learn.microsoft.com/en-us/windows-hardware/drivers/debugger/debugger-download-tools)
+  - Windows Debugging
 
 ### Miscellanous
 - [ROT8000](https://rot8000.com/Index)
   - Rotates Unicode characters by 0x8000. Mostly chinese characters.
-- [AndroidBackuptoolkit]()
+- [AndroidBackuptoolkit](https://sourceforge.net/projects/android-backup-toolkit/)
   - used when messing with android backups
 
 ## Python Libraries
+
+### Utility
+- [UJSON](https://pypi.org/project/ujson/)
+  - Like the json library but faster   
+- [Sockets](https://docs.python.org/3/library/socket.html)
+  - Messing around with sockets
+- [Requests](https://requests.readthedocs.io/en/latest/)
+  - Mess with web
+- [BeautifulSoup4](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+  - HTML Parser used in conjunction with the previous tool    
 
 ### Stego 
 - [Wave](https://docs.python.org/3/library/wave.html)
   - Used for messing with audio files
 - [Pillow](https://pillow.readthedocs.io/en/stable/)
   - For messing with images in python
+
+### Pwn/Reveng
+- [PWNTools](https://docs.pwntools.com/en/stable/)
+  - Collection of tools to help with pwn of binaries (Usually just use pwn)
