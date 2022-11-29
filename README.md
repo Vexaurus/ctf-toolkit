@@ -11,6 +11,8 @@
 ## Additional tools:
 - [CyberChef](https://gchq.github.io/CyberChef/)
   - Very good for all sorts of stuff
+- [NGROK](https://ngrok.com/)
+  - Reverse proxy, to catch reverse shells or host websites to grab payloads off.
 
 ### Web
 - [JWT](https://jwt.io/)
@@ -62,8 +64,11 @@
   - Like steghide but faster
 - [MorseCode](https://morsecode.world/international/decoder/audio-decoder-adaptive.html)
   - Morse code from audio fast, from images/text use cyber chef  
-
-
+- [DTMF Tones](http://dialabc.com/sound/detect/index.html)
+  - Honestly IDK just plug in tones and it gives words 
+- [Magic Eye](https://piellardj.github.io/stereogram-solver/)
+  - Apparently you can be trained to read this but yeah for messy images
+ 
 ### Password Cracking
 - [CUPP](https://github.com/Mebus/cupp)
   - Useful for making password lists
