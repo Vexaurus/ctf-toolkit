@@ -84,6 +84,8 @@
   - Live debugging on linux
 - [WinDBG](https://learn.microsoft.com/en-us/windows-hardware/drivers/debugger/debugger-download-tools)
   - Windows Debugging
+- [ShellCode Debug](http://sandsprite.com/blogs/index.php?uid=7&pid=152)
+  - For debugging windows shell code. cli
 
 ### Miscellanous
 - [ROT8000](https://rot8000.com/Index)
