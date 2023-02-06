@@ -40,7 +40,7 @@
   - Used for maths stuff/uses maths.
 - [Wolfram Alpha](https://www.wolframalpha.com/)
   - Maths stuff but easier
--  [Dcode](https://www.dcode.fr/en)
+- [Dcode](https://www.dcode.fr/en)
   - All sorts of decoders 
 
 ### OSINT
