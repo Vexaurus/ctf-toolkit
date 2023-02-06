@@ -44,6 +44,7 @@
   - All sorts of decoders 
 
 ### OSINT
+- Oryon's OSINT Query Tool (Just google it.)
 - [Sherlock](https://sherlock-project.github.io/)
   - Finds usernames of social media accounts.
 - [What Three Words](https://what3words.com/)
